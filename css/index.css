@@ -71,10 +71,19 @@ img{
 .s3text2{
 	width:0.7em;margin-left:1rem;
 }
-
+.girl{
+	width:3.4rem;
+	margin-left:0.5rem;
+	margin-top:0.4rem;
+}
 .lb{
 	width:0.9rem;
 }
 .gw{
 	width:0.88rem;
+}
+.denglu{
+	background:#EC9DAB;
+	whith:1.35rem;height:0.35rem;
+	border:0.03px solid white;
 }
